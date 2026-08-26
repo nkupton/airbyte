@@ -1,0 +1,20 @@
+airbyte-integrations/connectors/source-okta/metadata.yaml
+  h_db9619763f802a 22
+airbyte-integrations/connectors/source-okta/pyproject.toml
+  h_db9619763f802a 6
+airbyte-integrations/connectors/source-okta/source_okta/spec.yaml
+  h_db9619763f802a 68
+docs/integrations/sources/okta.md
+  h_db9619763f802a 44,94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "b916096439fb8923082c8f1f3052fc3571b73fcc",
+  "prompts": {},
+  "humans": {
+    "h_db9619763f802a": {
+      "author": "Nick Upton <nicku@zillowgroup.com>"
+    }
+  }
+}
